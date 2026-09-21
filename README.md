@@ -1,5 +1,9 @@
 # Design
 
+![Carte de visite NexaWeb](nexaweb-card/Image/1.webp)
+
+![Affiche Octobre Rose](octobre-rose/Image/Octobre-rose.webp)
+
 Deux réalisations graphiques, mises en page directement en HTML et CSS plutôt que dans un
 logiciel de design — c'était l'exercice.
 
